@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../amaliyot"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2-chi sayt"
+	}
+}
